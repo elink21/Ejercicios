@@ -1,2 +1,3 @@
-# exercises
-exercises and examples, not projects
+#Ejercicios
+
+Practicas de programacion y ejercicios
